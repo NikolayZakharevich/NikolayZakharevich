@@ -16,6 +16,7 @@
   * [Bachelor thesis project pt.1](https://github.com/NikolayZakharevich/itmo-music-keywords-2021)
   * [Bachelor thesis project pt.2](https://github.com/NikolayZakharevich/itmo-music-keywords-2021)
 * 3rd year
+  * [Multithreaded Programming](https://github.com/NikolayZakharevich/itmo-mulithreaded-programming-2019)
 * 2nd year
 * 1st year
   * [C++ course](https://github.com/NikolayZakharevich/itmo-cpp-2018)
